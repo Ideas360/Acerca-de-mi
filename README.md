@@ -1,8 +1,11 @@
 😄 Hello everybody 👋
 
 🌱 I´m student of the Master's in Artificial Intelligence and Data Science at Universidad Autónoma de Occidente (UAO), Colombia
+
 💼 15+ years of experience in digital marketing, graphic design and web development
+
 🔭 Currently working on analyzing Nariño's business landscape with open data (proyecto-etl-tepasto) and on advertising and digital marketing services
+
 👯 I'm looking to collaborate on data and AI projects applied to business and corporate management
 💬 Ask me about: Digital Marketing, Data Science, Artificial Intelligence and Consulting
 📫 How to reach me: LinkedIn · ideas360pasto@gmail.com
