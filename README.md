@@ -8,11 +8,17 @@
 
 👯 I'm looking to collaborate on data and AI projects applied to business and corporate management
 💬 Ask me about: Digital Marketing, Data Science, Artificial Intelligence and Consulting
+
 📫 How to reach me: LinkedIn · ideas360pasto@gmail.com
+
 🎓 Education
+
 🎯 Master's in Artificial Intelligence and Data Science: Universidad Autónoma de Occidente (UAO) (in progress)
+
 📘 Specialization in Digital Communication: UNIMINUTO (2023)
+
 📗 Bachelor's in Financial Management: UNIMINUTO (2020)
+
 🛠️ Tools and Technologies
 
 Python · Jupyter Notebook · HTML · SEO/SEM · Web and Graphic Design · Wordpress/Elementor · Automations N8N
@@ -31,15 +37,25 @@ Data Science · Artificial Intelligence · Digital Marketing · Consulting
 
 😄 Hola a todos 👋
 🌱 Soy Estudiante de la Maestría en Inteligencia Artificial y Ciencia de Datos en la Universidad Autónoma de Occidente (UAO)
+
 💼 Más de 15 años de experiencia en marketing digital, diseño gráfico y desarrollo web
+
 🔭 Actualmente trabajo en el análisis del tejido empresarial de Nariño con datos abiertos (proyecto-etl-tepasto) y en servicios de publicidad y marketing digital
+
 👯 Busco colaborar en proyectos de datos e IA aplicados a negocios y a la gestión empresarial
+
 💬 Pregúntame sobre: Marketing Digital, Ciencia de Datos, Inteligencia Artificial y Consultoría
+
 📫 Cómo contactarme: LinkedIn · ideas360pasto@gmail.com
+
 🎓 Formación
+
 🎯 Maestría en Inteligencia Artificial y Ciencia de Datos: Universidad Autónoma de Occidente (UAO) (en curso)
+
 📘 Especialización en Comunicación Digital: UNIMINUTO (2023)
+
 📗 Administración Financiera (pregrado): UNIMINUTO (2020)
+
 🛠️ Herramientas y tecnologías
 
 Python · Jupyter Notebook · HTML · SEO/SEM · Diseño web y gráfico · Wordpress/Elementor · Automatizaciones N8N
